@@ -1,0 +1,92 @@
+[
+  {
+    "hour":"2026-10-15 07:00:00",
+    "item":"Cappuccino",
+    "price":721.585
+  },
+  {
+    "hour":"2026-10-15 07:00:00",
+    "item":"Croissant",
+    "price":995.825
+  },
+  {
+    "hour":"2026-10-15 07:00:00",
+    "item":"Espresso",
+    "price":825.97
+  },
+  {
+    "hour":"2026-10-15 07:00:00",
+    "item":"Latte",
+    "price":830.5
+  },
+  {
+    "hour":"2026-10-15 07:00:00",
+    "item":"Muffin",
+    "price":650.44
+  },
+  {
+    "hour":"2026-10-15 07:00:00",
+    "item":"Sandwich",
+    "price":689.51
+  },
+  {
+    "hour":"2026-10-15 08:00:00",
+    "item":"Cappuccino",
+    "price":1401.63
+  },
+  {
+    "hour":"2026-10-15 08:00:00",
+    "item":"Croissant",
+    "price":953.33
+  },
+  {
+    "hour":"2026-10-15 08:00:00",
+    "item":"Espresso",
+    "price":1108.65
+  },
+  {
+    "hour":"2026-10-15 08:00:00",
+    "item":"Latte",
+    "price":1180.74
+  },
+  {
+    "hour":"2026-10-15 08:00:00",
+    "item":"Muffin",
+    "price":675.23
+  },
+  {
+    "hour":"2026-10-15 08:00:00",
+    "item":"Sandwich",
+    "price":675.34
+  },
+  {
+    "hour":"2026-10-15 09:00:00",
+    "item":"Cappuccino",
+    "price":467.46
+  },
+  {
+    "hour":"2026-10-15 09:00:00",
+    "item":"Croissant",
+    "price":179.42
+  },
+  {
+    "hour":"2026-10-15 09:00:00",
+    "item":"Espresso",
+    "price":494.7
+  },
+  {
+    "hour":"2026-10-15 09:00:00",
+    "item":"Latte",
+    "price":325.31
+  },
+  {
+    "hour":"2026-10-15 09:00:00",
+    "item":"Muffin",
+    "price":403.3
+  },
+  {
+    "hour":"2026-10-15 09:00:00",
+    "item":"Sandwich",
+    "price":598.01
+  }
+]
